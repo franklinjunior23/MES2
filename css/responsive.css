@@ -1,0 +1,10 @@
+@media (max-width:1024px) {
+    .head-cabezera{
+        flex-wrap: wrap;
+    }
+    .head-cabezera h2{
+        font-size: 40px;
+        padding: 20px;
+    }
+    
+}
